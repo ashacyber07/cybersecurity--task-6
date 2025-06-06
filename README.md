@@ -9,11 +9,12 @@
    passwordmeter.com
 
 # 🧪 Passwords Tested
-  Password	     Strength Score	 Tool Feedback (Complexity)	  Minimum Requirements Met?
-  2ash	            18%	             Very Weak	                      ❌ No
-  2ash#             30%	               Weak	                          ❌ No
-  ash#256	          52%	               Good	                          ✅ Yes
-  abcd#76Ag345	   100%              Very Strong	                    ✅ Ye
+| **Password**   | **Strength Score** | **Tool Feedback (Complexity)** | **Minimum Requirements Met?** |
+| -------------- | ------------------ | ------------------------------ | ----------------------------- |
+| `2ash`         | 18%                | Very Weak                      | ❌ No                         |
+| `2ash#`        | 30%                | Weak                           | ❌ No                         |
+| `ash#256`      | 52%                | Good                           | ✅ Yes                        |
+| `abcd#76Ag345` | 100%               | Very Strong                    | ✅ Yes                        |
 
   # ✅Key Best Practices for Creating Strong Passwords
    * Always use at least 12 characters or more.
